@@ -2,7 +2,7 @@
 
 This is a basic Hello World program. I created this to ensure that I could write a simple application using Python3.
 
-[Software Demo Video](https://youtu.be/V-tceaiBUuE)
+Software demo here: [Software Demo Video](https://youtu.be/V-tceaiBUuE)
 
 # Development Environment
 
